@@ -6,7 +6,7 @@
 </div>
 
 <p align="justify">
-  Olá! Sou Gileno, um profissional com formação em Análise e Desenvolvimento de Sistemas pelo IFRN e atualmente cursando pós-graduação em Engenharia de Software pela Faculdade União das Américas. Possuo uma sólida experiência em gestão de serviços em ambientes Linux/Unix e desenvolvimento de software. Minhas habilidades abrangem automação de processos, gerenciamento de bancos de dados, versionamento de código, desenvolvimento de APIs RESTful, Docker e conteinerização de aplicações, servidores web e computação em nuvem. Sou motivado pela entrega de resultados e pela resolução de problemas através da tecnologia.
+  Hello! I’m Gileno, a professional with a postgraduate degree in Software Engineering. I have solid experience in service management within Linux/Unix environments and software development. My skills include process automation, database management, code versioning, REST API development, Docker and application containerization, web servers, and cloud computing. I am driven by delivering results and solving problems through technology.
 </p>
 
 <div align="center">
